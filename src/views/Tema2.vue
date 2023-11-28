@@ -5,8 +5,22 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
-
+      h1 Bocetación de la campaña publicitaria digital
+    Separador
+    .row
+      .col-xl-12
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 2.1 Diagramación y composición
+    Separador
+    .row
+      .col-xl-12
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 2.2 El mensaje publicitario
+    Separador
+    .row
+      .col-xl-12
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 2.3 Edición digital
 </template>
 
 <script>

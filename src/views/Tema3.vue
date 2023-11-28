@@ -5,8 +5,25 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Titulo de primer nivel
-
+      h1 Presentación de la campaña publicitaria digital
+    
+    Separador
+    .row
+      .col-xl-12
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 3.1 Herramientas de presentación
+    
+    Separador
+    .row
+      .col-xl-12
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 3.2 Presentación de indicadores de desempeño
+    
+    Separador
+    .row
+      .col-xl-12
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 3.3 Plan de mejoramiento
 </template>
 
 <script>
