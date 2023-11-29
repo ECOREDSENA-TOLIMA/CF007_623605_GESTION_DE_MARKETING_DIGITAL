@@ -8,7 +8,7 @@
       h1 Planificación de la campaña publicitaria digital
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-up")
         p La planificación de una campaña publicitaria digital es un componente esencial para el éxito de las organizaciones, ya que define la dirección estratégica para captar a los consumidores a través de medios digitales. Este proceso implica establecer: 
         .cajon.color-primario.color-cajon.p-4.mb-4
           .row.justify-content-center.align-items-center
@@ -42,7 +42,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.1 Conformación del equipo de trabajo
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-up")
         p Un equipo de trabajo es un grupo de personas con habilidades o cualidades, que interrelacionadas permiten cumplir o alcanzar unos objetivos dentro de las organizaciones; cada miembro posee unos conocimientos que le permiten adelantar tareas o actividades específicas, las cuales, distribuidas en el equipo de trabajo, permiten alcanzar los objetivos. A continuación, se identifican los diferentes tipos de equipos de trabajo que se pueden conformar:
     
     .BGIMG01.p-5.mb-5
@@ -131,11 +131,11 @@
             figure
               img(src='@/assets/curso/temas/tema1/img8.jpg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-up")
         p La conformación de equipos de trabajo, al interior de las organizaciones es de gran importancia debido a que permiten tomar decisiones en grupo, lograr objetivos en conjunto, desarrollar la motivación y creatividad y substituir roles. De acuerdo a esto, los equipos de trabajo deben:
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+      .col-lg-6(data-aos="flip-up")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema1/img9.svg' alt='AvatarTop')
@@ -143,7 +143,7 @@
             .p-4
               h4 Poseer objetivos comunes
               p Todo equipo de trabajo posee un líder o un conjunto de líderes, encargados de la conducción y la toma de decisiones, facilitando la coordinación de los esfuerzos y la resolución de disputas internas.
-      .col-lg-6
+      .col-lg-6(data-aos="flip-up")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema1/img10.svg' alt='AvatarTop')
@@ -151,7 +151,7 @@
             .p-4
               h4 Poseer algún tipo de liderazgo
               p Todo equipo de trabajo posee un líder o un conjunto de líderes, encargados de la conducción y la toma de decisiones, facilitando la coordinación de los esfuerzos y la resolución de disputas internas.
-      .col-lg-6
+      .col-lg-6(data-aos="flip-up")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema1/img11.svg' alt='AvatarTop')
@@ -159,7 +159,7 @@
             .p-4
               h4 Sus partes poseen interdependencia
               p Los integrantes de un equipo de trabajo se necesitan entre sí para poder alcanzar el objetivo, ya que de otro modo podrían intentar hacerlo por cuenta propia.
-      .col-lg-6
+      .col-lg-6(data-aos="flip-up")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema1/img12.svg' alt='AvatarTop')
@@ -177,7 +177,7 @@
           h5 Figura 1.
           span  #[i  Perfiles en los equipos de trabajo creativos]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.desktop
+      .col-lg-12.desktop(data-aos="flip-up")
         figure
           img(src='@/assets/curso/temas/tema1/img13.svg', alt='En la figura 1 se muestran los perfiles en los equipos de trabajo creativos.')
       .col-lg-12.movil
@@ -191,7 +191,7 @@
       h2.my-5 1.2 Presupuesto publicitario
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-up")
         p Al poner en marcha una campaña publicitaria digital, dentro de su planeación se debe tener en cuenta el presupuesto de la misma, la cual permitirá determinar a las organizaciones la financiación de la campaña y la evaluación en cuanto a indicadores financieros, como el ROI (#[i Return On Investment]) retorno de la inversión.
         p Los presupuestos se construyen a partir de los planes de acción de la organización o de un proyecto específico, pero a su vez estos proyectos dependen del presupuesto general de la organización. 
         p La financiación de las campañas estaría contemplada en el rubro asignado al área de administración y ventas, tanto los gastos o costos, como los ingresos que generaría este proyecto a la organización. 
@@ -206,7 +206,7 @@
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema1/img14.svg', alt='Imagen decorativa')
-      .col-lg-8
+      .col-lg-8(data-aos="flip-up")
         ul.lista-ul
           li 
             i.fas.fa-circle.fa-xs
@@ -236,7 +236,7 @@
             i.fas.fa-circle.fa-xs
             | Ejecución de cada actividad planteada.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-up")
         p Para construir el presupuesto de publicidad o campaña publicitaria se debe tener en cuenta: 
     
     .cajon.color-secundario.p-4.mb-4
@@ -260,7 +260,7 @@
           span.text-bold f)
           | Definir los indicadores de medición.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-up")
         p Por ejemplo, al realizar la estructuración o cálculo de un presupuesto publicitario se tiene en cuenta lo descrito en la siguiente información de un caso al respecto:
     
     .row.justify-content-center.align-items-center.mb-5
@@ -279,7 +279,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.3 Cronograma
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-up")
         p En la planeación estratégica, táctica u operativa existen unos tiempos de ejecución, en cuanto a la planeación estratégica se realiza a largo plazo, la planeación táctica a mediano plazo y la planeación operativa a corto plazo; cada una de estas planeaciones está integrada por unas metas y actividades, la cuales cuentan con una fecha o tiempo determinado de ejecución para cada una; por lo cual se puede decir que existe un cronograma establecido para la planeación de la organización. 
         p Por su parte, cada proyecto que adelanta la organización debe de ir acompañado de un cronograma para cada una de sus etapas o fases; es decir, para su fase de factibilidad, fase de inversión, fase de operación y fase de evolución.
         p Por lo cual, se puede definir al cronograma como una herramienta que permite a las organizaciones de forma gráfica presentar detalladamente cada una de sus actividades a adelantar y los tiempos en los cuales se debe realizar; es de gran utilidad debido a que permite controlar los tiempos de ejecución de los planes o proyectos.
@@ -349,7 +349,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.4 Analítica web
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-up")
         p Para determinar el éxito de una campaña publicitaria y el logro de los objetivos de la misma se hace necesario realizar análisis a los datos, métricas e indicadores establecidos en cada proyecto, por lo cual se abordarán los conceptos de analítica web, métricas e indicadores digitales.
         p Para complementar la información observe el siguiente video del SENA denominado “¿Qué es la analítica web?,”.
     
@@ -359,7 +359,7 @@
           .video          
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-up")
         p Existen algunas métricas que permiten medir los resultados de las campañas publicitarias:
     
     .row.justify-content-center.align-items-center.mb-5
@@ -368,7 +368,7 @@
           h5 Tabla 3.
           span  #[i  Métrica de campaña de marketing ]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-up")
         .tabla-a.color-acento-contenido.mb-5
           table
             thead
@@ -406,7 +406,7 @@
                 td Los números de clics interactúan con la campaña publicitaria.
                 td Clics / Impresiones totales = Tasa clics 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-up")
         p Dentro de las métricas de análisis web se encuentran los KPI (#[i Key Performance Indicator]), indicadores claves de desempeño, los cuales son indicadores digitales que miden el rendimiento de las plataformas digitales; estos indicadores se construyen por cada organización de acuerdo a sus objetivos y planes de #[i marketing].
         p En cuanto al análisis de sitios web mediante indicadores KPI se encuentran: 
     .tarjeta--container.row.mb-5
