@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
         p Las organizaciones como estrategia de #[i marketing] digital, crean campañas publicitarias las cuales están dirigidas a unos consumidores específicos de acuerdo a los estudios de mercado, las tendencias de consumo y los canales digitales en los cuales publicitan.
-        p Una vez diseñado el brief en el cual se plasman los objetivos, situación inicial y plan de #[i marketing] de la organización; el equipo de trabajo de #[i marketing] o la agencia de #[i marketing] debe iniciar con la creación del mensaje y diseño de la campaña publicitaria, en la cual de forma creativa e innovadora deberá asegurar que la creación de la publicidad sea aceptada por la audiencia y se logren los objetivos de la organización. 
+        p Una vez diseñado el #[i brief] en el cual se plasman los objetivos, situación inicial y plan de #[i marketing] de la organización; el equipo de trabajo de #[i marketing] o la agencia de #[i marketing] debe iniciar con la creación del mensaje y diseño de la campaña publicitaria, en la cual de forma creativa e innovadora deberá asegurar que la creación de la publicidad sea aceptada por la audiencia y se logren los objetivos de la organización. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9(data-aos="flip-up")
@@ -22,38 +22,38 @@
               .row.justify-content-between.align-items-center
                 .col-xl-9.col.mb-sm-0
                   h4.mb-1 Importante...
-                  p.text-small.mb-0 El boceto publicitario: es la representación gráfica, tanto en productos como en anuncios publicitarios, se traduce en una idea plasmada en cualquier medio gráfico.
+                  p.mb-0 El boceto publicitario: es la representación gráfica, tanto en productos como en anuncios publicitarios, se traduce en una idea plasmada en cualquier medio gráfico.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8(data-aos="flip-up")
-        p Es donde se deben conocer los elementos que debe tener el briefing como:
+      .col-lg-7(data-aos="flip-up")
+        p Es donde se deben conocer los elementos que debe tener el #[i briefing] como:
         ul.lista-ul
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Elementos y detalles básicos del producto, servicio o marca.
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Elegir el dispositivo, móvil o software de dibujo para su creación.
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Crear el diseño preliminar de la publicidad con el mensaje.
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Tener claro los objetivos que se pretende alcanzar a través de la publicidad.
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Trazar una hoja de ruta.
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Explicar el mercado objetivo.
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Describir el presupuesto.
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Línea de tiempo.
         p El equipo de trabajo de #[i marketing] debe de generar ideas creativas e innovadoras, que permitan transmitir un mensaje sencillo y claro a la audiencia, pero este mensaje debe ser cautivador y tocar la parte sentimental de los consumidores, para que de esta forma sigan la marca y se fidelicen con ella.
 
-      .col-lg-4
+      .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema2/img2.jpg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
@@ -83,35 +83,35 @@
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema2/img3.svg' alt='AvatarTop')
           .col-12
-            h4 El objetivo
+            h4.text-center El objetivo
             p.text-center El cual indica el porqué del diseño publicitario, en el cual se analiza los elementos que deberán hacer parte del diseño.
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema2/img4.svg' alt='AvatarTop')
           .col-12
-            h4 Público objetivo
+            h4.text-center Público objetivo
             p.text-center El diseño publicitario debe estar creado de acuerdo a la audiencia a la cual estará dirigida la campaña publicitaria. 
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema2/img5.svg' alt='AvatarTop')
           .col-12
-            h4 Mensaje
+            h4.text-center Mensaje
             p.text-center El mensaje a transmitir es fundamental en el diseño publicitario, debido a que este permite conectar con la audiencia. 
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema2/img6.svg' alt='AvatarTop')
           .col-12
-            h4 Estilo
+            h4.text-center Estilo
             p.text-center Los diseños publicitarios, deben de ir creados de acuerdo al estilo de la organización o los elementos que representan la marca; debido a que permite que la audiencia asocia más fácilmente el mensaje publicitario con la organización o la marca.
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema2/img7.svg' alt='AvatarTop')
           .col-12
-            h4 Uniformidad
+            h4.text-center Uniformidad
             p.text-center Los diseños publicitarios deben ser uniformes debido a que serán empleados en diferentes medios publicitarios y todos deben transmitir el mismo mensaje.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
@@ -126,7 +126,7 @@
                 img(src='@/assets/curso/temas/tema2/img8.svg', alt='Imagen decorativa')
 
           h4.text-center Aparición o emergencia
-          p.text-small Se trata de crear un diseño de un elemento ya conocido por la audiencia, al cual se le brindan otros elementos que contendrán el mensaje o características del producto, servicio o marca. 
+          p.text-center Se trata de crear un diseño de un elemento ya conocido por la audiencia, al cual se le brindan otros elementos que contendrán el mensaje o características del producto, servicio o marca. 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.colorcol1.p-4
           .row.justify-content-center.mb-3
@@ -135,7 +135,7 @@
                 img(src='@/assets/curso/temas/tema2/img9.svg', alt='Imagen decorativa')
 
           h4.text-center Cosificación o reificación
-          p.text-small Son diseños creados de forma incompleta, pero que el cerebro de las personas asocia fácilmente.
+          p.text-center Son diseños creados de forma incompleta, pero que el cerebro de las personas asocia fácilmente.
           br
           br
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
@@ -146,7 +146,7 @@
                 img(src='@/assets/curso/temas/tema2/img10.svg', alt='Imagen decorativa')
 
           h4.text-center Multiestabilidad
-          p.text-small Son elementos que se pueden identificar de manera ambigua.
+          p.text-center Son elementos que se pueden identificar de manera ambigua.
           br
           br
           br
@@ -159,7 +159,7 @@
                 img(src='@/assets/curso/temas/tema2/img11.svg', alt='Imagen decorativa')
 
           h4.text-center Invariabilidad
-          p.text-small Son elementos gráficos que, diseñados en diferentes rotaciones, pueden ser percibidos  por el ser humano de la misma forma o ser identificables.
+          p.text-center Son elementos gráficos que, diseñados en diferentes rotaciones, pueden ser percibidos  por el ser humano de la misma forma o ser identificables.
           p.mb-5
           
     .row.justify-content-center.align-items-center.mb-5
@@ -175,9 +175,9 @@
               img(src="@/assets/curso/temas/tema2/img1.svg").img65
             .col-lg-9
               .row.justify-content-between.align-items-center
-                .col-xl-9.col.mb-sm-0
+                .col-xl-11.col.mb-sm-0
                   h4.mb-1 Importante...
-                  p.text-small.mb-0 Diagramación y composición: hacen parte fundamental de la creación del diseño publicitario, debido a que permiten organizar cada uno de los elementos del diseño en un espacio determinado; es decir, les da un orden y sentido a los recursos gráficos, dentro del entorno en el cual se va a implementar el diseño, en páginas web, libros, periódicos o redes sociales.
+                  p.mb-0 Diagramación y composición: hacen parte fundamental de la creación del diseño publicitario, debido a que permiten organizar cada uno de los elementos del diseño en un espacio determinado; es decir, les da un orden y sentido a los recursos gráficos, dentro del entorno en el cual se va a implementar el diseño, en páginas #[i web], libros, periódicos o redes sociales.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
         p Las características de la diagramación y composición son elementos fundamentales en el diseño gráfico y editorial. A continuación, se analizan algunos aspectos clave para comprender estas disciplinas:
@@ -218,25 +218,25 @@
     SlyderB.slyder-b-img.mb-5.p-5(:datos="datosSlyderEjemplo1")(data-aos="zoom-in-up")
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
-        p El principal objetivo del mensaje publicitario es captar la atención de los leads y consumidores actuales y que estos adquieran productos o servicios o se fidelicen con la marca; con este mensaje como estrategia de marketing las organizaciones generan mayores ventas y generación de valor de la marca. 
+        p El principal objetivo del mensaje publicitario es captar la atención de los #[i leads] y consumidores actuales y que estos adquieran productos o servicios o se fidelicen con la marca; con este mensaje como estrategia de #[i marketing] las organizaciones generan mayores ventas y generación de valor de la marca. 
         p El mensaje publicitario debe ser claro, conciso, directo, persuasivo, creíble, creativo, innovador e impactante para el consumidor o el público objetivo, para el cual va dirigido el mensaje.
         p Los mensajes publicitarios se clasifican de acuerdo al medio en el cual se publicitan, esto depende de la planeación de la campaña publicitaria, dentro de los tipos de mensajes se encuentran:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         ul.lista-ul
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Mensajes publicitarios de texto .
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Mensajes publicitarios mixtos (imagen y texto)
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
-            | Mensajes publicitarios audiovisuales, representados en textos, imágenes y sonidos con movimientos, publicitados en medios de la comunicación y la información como la televisión, sitios web, redes sociales. 
-          li 
+            | Mensajes publicitarios audiovisuales, representados en textos, imágenes y sonidos con movimientos, publicitados en medios de la comunicación y la información como la televisión, sitios #[i web], redes sociales. 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Mensajes publicitarios radiales.
-          li 
+          li.mb-0 
             i.fas.fa-circle.fa-xs
             | Mensajes publicitarios digitales, son mensajes con contenido digital, publicitados gracias a internet. 
         p Para construir un mensaje publicitario exitoso se deben seguir unos parámetros para su construcción, los cuales se proyectan a través del siguiente ejemplo de una marca registrada:
@@ -386,21 +386,21 @@ export default {
       {
         titulo: '',
         texto:
-          'Facilita a las organizaciones conectar con leads o consumidores actuales mediante la creación de contenido valioso y atractivo. Este contenido debe transmitir un mensaje efectivo que atraiga, convenza, persuade, venda y fidelice.',
+          'Facilita a las organizaciones conectar con <em>leads</em> o consumidores actuales mediante la creación de contenido valioso y atractivo. Este contenido debe transmitir un mensaje efectivo que atraiga, convenza, persuade, venda y fidelice.',
         imagen: require('@/assets/curso/temas/tema2/img14.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: '',
         texto:
-          'Proporciona a las organizaciones la capacidad de incentivar el tráfico en sitios digitales, aumentar el conocimiento de la marca, construir relaciones sólidas entre la marca y los consumidores, incrementar las ventas y atraer nuevos leads.',
+          'Proporciona a las organizaciones la capacidad de incentivar el tráfico en sitios digitales, aumentar el conocimiento de la marca, construir relaciones sólidas entre la marca y los consumidores, incrementar las ventas y atraer nuevos <em>leads</em>.',
         imagen: require('@/assets/curso/temas/tema2/img15.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: '',
         texto:
-          'Para implementar una estrategia de marketing de contenido exitosa, es esencial establecer objetivos claros, definir indicadores o métricas digitales, identificar el buyer persona, crear contenido digital relevante y seleccionar los canales digitales adecuados.',
+          'Para implementar una estrategia de <em> marketing </em> de contenido exitosa, es esencial establecer objetivos claros, definir indicadores o métricas digitales, identificar el <em> buyer</em> persona, crear contenido digital relevante y seleccionar los canales digitales adecuados.',
         imagen: require('@/assets/curso/temas/tema2/img16.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

@@ -136,7 +136,7 @@
           .col-6
             figure
               img(src='@/assets/curso/temas/tema3/img42.svg', alt='Imagen decorativa')        
-        p.text-center 	Desarrollar planes de mejoramiento continuo.
+        p.text-center Desarrollar planes de mejoramiento continuo.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -150,7 +150,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
         p El plan de mejora es una herramienta diseñada por las organizaciones con el objetivo de alcanzar la calidad total en sus procesos, incluyendo el ámbito de #[i marketing]. Estos planes deben estar debidamente documentados y ser compartidos con todos los miembros de la organización, contando con un sistema de medición mediante indicadores de gestión para evaluar los resultados del plan. La participación de todos los miembros en la construcción y ejecución del plan es fundamental.
-        p En el contexto del #[i marketing], la aplicación del ciclo PDCA puede abordar aspectos como la efectividad de las estrategias, la satisfacción del cliente, la eficiencia en la gestión de campañas publicitarias y otros elementos clave para el rendimiento de las actividades de #[i marketing]. La retroalimentación constante y la adaptación son fundamentales para el éxito en un entorno dinámico como el marketing digital.
+        p En el contexto del #[i marketing], la aplicación del ciclo PDCA puede abordar aspectos como la efectividad de las estrategias, la satisfacción del cliente, la eficiencia en la gestión de campañas publicitarias y otros elementos clave para el rendimiento de las actividades de #[i marketing]. La retroalimentación constante y la adaptación son fundamentales para el éxito en un entorno dinámico como el #[i marketing] digital.
         p En la elaboración de un plan de acción y mejora, se recomienda seguir el ciclo PDCA, que consta de las siguientes etapas:
     row.justify-content-center.align-items-center.mb-5
       .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")

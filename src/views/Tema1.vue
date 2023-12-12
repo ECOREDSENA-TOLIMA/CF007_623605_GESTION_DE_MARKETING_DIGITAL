@@ -29,7 +29,7 @@
                 li 
                   i.fas.fa-circle.fa-xs
                   | Crear una ruta estratégica, táctica y operativa
-        p En el contexto del marketing digital, una campaña publicitaria digital busca impulsar o lanzar productos, servicios o marcas utilizando diversos canales digitales como sitios web, correo electrónico y redes sociales. Comienza con la formulación de objetivos específicos, perfilando al consumidor y delineando estrategias de marketing y políticas de ventas en un brief detallado.
+        p En el contexto del #[i marketing] digital, una campaña publicitaria digital busca impulsar o lanzar productos, servicios o marcas utilizando diversos canales digitales como sitios #[i web], correo electrónico y redes sociales. Comienza con la formulación de objetivos específicos, perfilando al consumidor y delineando estrategias de #[i marketing] y políticas de ventas en un brief detallado.
         p La creatividad juega un papel crucial en la creación del mensaje publicitario, que debe ser innovador y atractivo en términos de colores, gráficos, imágenes, sonido y texto, transmitiendo de manera efectiva la intención al consumidor.
         p La planificación no termina con la ejecución; implica un seguimiento y control continuo de las actividades, utilizando métricas para medir el impacto de la campaña y evaluar si se cumplen los objetivos establecidos.
       .col-lg-4
@@ -96,34 +96,34 @@
             ul.lista-ul              
               li 
                 i.fas.fa-circle.fa-xs
-                | Gerente de comunicaciones.ul.lista-ul              
+                | Gerente de comunicaciones.              
               li 
                 i.fas.fa-circle.fa-xs
-                | Analista de datos.ul.lista-ul              
+                | Analista de datos.              
               li 
                 i.fas.fa-circle.fa-xs
-                | Profesional de branding.ul.lista-ul              
+                | Profesional de #[i branding].              
               li 
                 i.fas.fa-circle.fa-xs
-                | Profesional de contenido.ul.lista-ul              
+                | Profesional de contenido.              
               li 
                 i.fas.fa-circle.fa-xs
-                | Profesional de adquisición.ul.lista-ul              
+                | Profesional de adquisición.              
               li 
                 i.fas.fa-circle.fa-xs
-                | Profesional de conversión.ul.lista-ul              
+                | Profesional de conversión.              
               li 
                 i.fas.fa-circle.fa-xs
-                | Diseñador gráfico.ul.lista-ul              
+                | Diseñador gráfico.              
               li 
                 i.fas.fa-circle.fa-xs
-                | Especialista en PPC (Pay Per Click) ul.lista-ul              
+                | Especialista en PPC (Pay Per Click)               
               li 
                 i.fas.fa-circle.fa-xs
-                | Administrador de redes sociales.ul.lista-ul              
+                | Administrador de redes sociales.              
               li 
                 i.fas.fa-circle.fa-xs
-                | Gestor de relaciones públicas o eventos.ul.lista-ul              
+                | Gestor de relaciones públicas o eventos.              
               li 
                 i.fas.fa-circle.fa-xs
                 | Subcontratación de actividades: asociaciones.
@@ -210,10 +210,10 @@
         ul.lista-ul
           li 
             i.fas.fa-circle.fa-xs
-            | Hace parte del presupuesto de marketing y este a su vez del presupuesto maestro de la organización.
+            | Hace parte del presupuesto de #[i marketing] y este a su vez del presupuesto maestro de la organización.
           li 
             i.fas.fa-circle.fa-xs
-            | Diseño de los planes de acción en cuanto a las estrategias de marketing.
+            | Diseño de los planes de acción en cuanto a las estrategias de #[i marketing].
           li 
             i.fas.fa-circle.fa-xs
             | Identifica los objetivos a alcanzar.
@@ -279,12 +279,12 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.3 Cronograma
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8(data-aos="flip-up")
+      .col-lg-7(data-aos="flip-up")
         p En la planeación estratégica, táctica u operativa existen unos tiempos de ejecución, en cuanto a la planeación estratégica se realiza a largo plazo, la planeación táctica a mediano plazo y la planeación operativa a corto plazo; cada una de estas planeaciones está integrada por unas metas y actividades, la cuales cuentan con una fecha o tiempo determinado de ejecución para cada una; por lo cual se puede decir que existe un cronograma establecido para la planeación de la organización. 
         p Por su parte, cada proyecto que adelanta la organización debe de ir acompañado de un cronograma para cada una de sus etapas o fases; es decir, para su fase de factibilidad, fase de inversión, fase de operación y fase de evolución.
         p Por lo cual, se puede definir al cronograma como una herramienta que permite a las organizaciones de forma gráfica presentar detalladamente cada una de sus actividades a adelantar y los tiempos en los cuales se debe realizar; es de gran utilidad debido a que permite controlar los tiempos de ejecución de los planes o proyectos.
         p Los cronogramas están integrados por el nombre del proyecto, objetivos del proyecto, actividades, periodos de tiempo y responsables de cada una de las actividades. A continuación, se muestra un ejemplo de cómo es la estructura del cronograma:
-      .col-lg-4
+      .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema1/img15.jpg', alt='Imagen decorativa')
     
@@ -347,11 +347,11 @@
     .row
       .col-xl-12
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2.my-5 1.4 Analítica web
+      h2.my-5 1.4 Analítica #[i web]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
-        p Para determinar el éxito de una campaña publicitaria y el logro de los objetivos de la misma se hace necesario realizar análisis a los datos, métricas e indicadores establecidos en cada proyecto, por lo cual se abordarán los conceptos de analítica web, métricas e indicadores digitales.
-        p Para complementar la información observe el siguiente video del SENA denominado “¿Qué es la analítica web?,”.
+        p Para determinar el éxito de una campaña publicitaria y el logro de los objetivos de la misma se hace necesario realizar análisis a los datos, métricas e indicadores establecidos en cada proyecto, por lo cual se abordarán los conceptos de analítica #[i web], métricas e indicadores digitales.
+        p Para complementar la información observe el siguiente video del SENA denominado “¿Qué es la analítica #[i web] ?,”.
     
     .row.justify-content-center.align-items-center.md-5   
       .col-lg-12(data-aos="fade-left")     
@@ -380,26 +380,26 @@
               tr
                 td Coste de adquisición del cliente (CAC)	
                 td Es el costo en el que la organización incurre para obtener un nuevo cliente y que consuma sus productos o servicios.
-                td (Costo marketing + Costo ventas + Gastos generales) / Consumidores nuevos = CAC 
+                td (Costo #[i marketing] + Costo ventas + Gastos generales) / Consumidores nuevos = CAC 
               tr
-                td Coste de marketing al adquirir un cliente (M%-CAC)	
+                td Coste de #[i marketing] al adquirir un cliente (M%-CAC)	
                 td Es el costo de adquisición de un cliente expresado en porcentaje (%).
-                td (Costo marketing + Gastos generales) / (Costo marketing + Costo ventas + Gastos generales) = %CAC
+                td (Costo #[i marketing] + Gastos generales) / (Costo #[i marketing] + Costo ventas + Gastos generales) = %CAC
               tr
-                td Porcentaje de clientes originados en marketing.
-                td Es el porcentaje que mide la efectividad de las campañas de marketing, respecto a los nuevos consumidores.
-                td Clientes Nuevos / Clientes leads = %
+                td Porcentaje de clientes originados en #[i marketing].
+                td Es el porcentaje que mide la efectividad de las campañas de #[i marketing], respecto a los nuevos consumidores.
+                td Clientes Nuevos / Clientes #[i leads] = %
               tr
                 td Índice de promotores neto (NPS)
                 td Mide la satisfacción del consumidor, pero también la probabilidad de que este recomiende la marca, a través de una encuesta. 	
                 td (Promotores – Detractores) / Encuestados =NPS
               tr
                 td Coste por lead	
-                td Mide la inversión de presupuesto vs los leads adquiridos, con cada campaña de marketing digital.
-                td Inversión campaña / Leads nuevos = Costo lead 
+                td Mide la inversión de presupuesto vs los leads adquiridos, con cada campaña de #[i marketing] digital.
+                td Inversión campaña / #[i Leads] nuevos = Costo #[i lead] 
               tr
                 td Número total de visitas
-                td Mide el comportamiento de las visitas, al implementar una campaña de marketing digital.
+                td Mide el comportamiento de las visitas, al implementar una campaña de #[i marketing] digital.
                 td Visita sin interactuar / Total visitas = % rebote 
               tr
                 td Tasa de clics
@@ -407,8 +407,8 @@
                 td Clics / Impresiones totales = Tasa clics 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
-        p Dentro de las métricas de análisis web se encuentran los KPI (#[i Key Performance Indicator]), indicadores claves de desempeño, los cuales son indicadores digitales que miden el rendimiento de las plataformas digitales; estos indicadores se construyen por cada organización de acuerdo a sus objetivos y planes de #[i marketing].
-        p En cuanto al análisis de sitios web mediante indicadores KPI se encuentran: 
+        p Dentro de las métricas de análisis #[i web] se encuentran los KPI (#[i Key Performance Indicator]), indicadores claves de desempeño, los cuales son indicadores digitales que miden el rendimiento de las plataformas digitales; estos indicadores se construyen por cada organización de acuerdo a sus objetivos y planes de #[i marketing].
+        p En cuanto al análisis de sitios #[i web]  mediante indicadores KPI se encuentran: 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.colortabs.p-5
         .row.justify-content-center.mb-4
@@ -416,7 +416,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img20.svg', alt='Imagen decorativa')
         h4.text-center Indicadores KPI corporativos
-        p Son los indicadores digitales para sitios web corporativos en los cuales se determinan indicadores para los usuarios recurrentes y tiempo de permanencia en el sitio.
+        p Son los indicadores digitales para sitios #[i web] corporativos en los cuales se determinan indicadores para los usuarios recurrentes y tiempo de permanencia en el sitio.
       .col-md.tarjeta.colortarj2.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -430,7 +430,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img22.svg', alt='Imagen decorativa')
         h4.text-center Indicadores KPI #[i Ecommerce]
-        p Indicador para las ventas en tiendas online en los cuales se pueden determinar indicadores como ingresos percibidos por la empresa por visitas.
+        p Indicador para las ventas en tiendas #[i online] en los cuales se pueden determinar indicadores como ingresos percibidos por la empresa por visitas.
 </template>
 
 <script>
