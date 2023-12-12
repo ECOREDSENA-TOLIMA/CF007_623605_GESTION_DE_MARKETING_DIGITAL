@@ -29,7 +29,7 @@
                 li 
                   i.fas.fa-circle.fa-xs
                   | Crear una ruta estratégica, táctica y operativa
-        p En el contexto del #[i marketing] digital, una campaña publicitaria digital busca impulsar o lanzar productos, servicios o marcas utilizando diversos canales digitales como sitios #[i web], correo electrónico y redes sociales. Comienza con la formulación de objetivos específicos, perfilando al consumidor y delineando estrategias de #[i marketing] y políticas de ventas en un brief detallado.
+        p En el contexto del #[i marketing] digital, una campaña publicitaria digital busca impulsar o lanzar productos, servicios o marcas utilizando diversos canales digitales como sitios #[i web], correo electrónico y redes sociales. Comienza con la formulación de objetivos específicos, perfilando al consumidor y delineando estrategias de #[i marketing] y políticas de ventas en un #[i brief] detallado.
         p La creatividad juega un papel crucial en la creación del mensaje publicitario, que debe ser innovador y atractivo en términos de colores, gráficos, imágenes, sonido y texto, transmitiendo de manera efectiva la intención al consumidor.
         p La planificación no termina con la ejecución; implica un seguimiento y control continuo de las actividades, utilizando métricas para medir el impacto de la campaña y evaluar si se cumplen los objetivos establecidos.
       .col-lg-4
@@ -353,7 +353,7 @@
         p Para determinar el éxito de una campaña publicitaria y el logro de los objetivos de la misma se hace necesario realizar análisis a los datos, métricas e indicadores establecidos en cada proyecto, por lo cual se abordarán los conceptos de analítica #[i web], métricas e indicadores digitales.
         p Para complementar la información observe el siguiente video del SENA denominado “¿Qué es la analítica #[i web] ?,”.
     
-    .row.justify-content-center.align-items-center.md-5   
+    .row.justify-content-center.align-items-center.md-5.mb-5   
       .col-lg-12(data-aos="fade-left")     
         figure
           .video          

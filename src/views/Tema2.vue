@@ -20,7 +20,7 @@
               img(src="@/assets/curso/temas/tema2/img1.svg").img65
             .col-lg-9
               .row.justify-content-between.align-items-center
-                .col-xl-9.col.mb-sm-0
+                .col-xl-12.col.mb-sm-0
                   h4.mb-1 Importante...
                   p.mb-0 El boceto publicitario: es la representación gráfica, tanto en productos como en anuncios publicitarios, se traduce en una idea plasmada en cualquier medio gráfico.
     .row.justify-content-center.align-items-center.mb-5
@@ -183,25 +183,31 @@
         p Las características de la diagramación y composición son elementos fundamentales en el diseño gráfico y editorial. A continuación, se analizan algunos aspectos clave para comprender estas disciplinas:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.desktop
-        ImagenInfograficaB.color-acento-botones.mb-5
+        ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema2/img12.svg', alt='Imagen decorativa')
-          div(x="10%" y="46%"  numero="+")
+
+          .tarjeta.colormodal.p-3(x="10%" y="46%" numero="+")
             .h5.mb-2 Proximidad
             p Hace referencia a la cercanía y relación que deben de existir entre los elementos.
-          div(x="8.2%" y="21.5%"  numero="+")
+
+          .tarjeta.colormodal.p-3(x="8.2%" y="21.5%" numero="+")
             .h5.mb-2 Espacio en blanco
             p Los espacios en blanco permiten la legibilidad del diseño.
-          div(x="38%" y="60%"  numero="+")
+
+          .tarjeta.colormodal.p-3(x="38%" y="60%" numero="+")
             .h5.mb-2 Alineación
             p La alineación del contenido o diseño gráfico permite visualizar un orden, haciendo la relación o conexión entre los elementos y que no se pierda algún recurso gráfico dentro del diseño.
-          div(x="68%" y="23%"  numero="+")
+
+          .tarjeta.colormodal.p-3(x="68%" y="23%" numero="+")
             .h5.mb-2 Contraste y jerarquía
             p Permite resaltar elementos relevantes dentro del diseño.
-          div(x="77%" y="62%"  numero="+")
+
+          .tarjeta.colormodal.p-3(x="77%" y="62%" numero="+")
             .h5.mb-2 Repetición
             p Se emplean elementos o recursos dentro del diseño más de una vez.
+            
       .col-lg-12.movil
         figure
           img(src='@/assets/curso/temas/tema2/img13.svg', alt='Imagen decorativa')

@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Implementación de la campaña publicitaria en medios digitales.
+          h2 Implementación de la campaña publicitaria en medios digitales
         p.mb-4 #[b Objetivo]: validar los conocimientos y conceptos aprendidos en el proceso con el fin de presentar campañas publicitarias en los medios digitales.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

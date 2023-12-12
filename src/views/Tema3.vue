@@ -18,70 +18,70 @@
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema3/img30.svg' alt='AvatarTop')
           .col-12
-            h4 El objetivo central de la organización.
+            h4.text-center El objetivo central de la organización.
             p.text-center 
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema3/img30.svg' alt='AvatarTop')
           .col-12
-            h4 Lo que se pretende lograr con esta campaña publicitaria.
+            h4.text-center Lo que se pretende lograr con esta campaña publicitaria.
             p.text-center 
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema3/img30.svg' alt='AvatarTop')
           .col-12
-            h4 El mensaje a transmitir.
+            h4.text-center El mensaje a transmitir.
             p.text-center 
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema3/img31.svg' alt='AvatarTop')
           .col-12
-            h4 Su relación con el producto.
+            h4.text-center Su relación con el producto.
             p.text-center 
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema3/img32.svg' alt='AvatarTop')
           .col-12
-            h4 Servicio o marca.
+            h4.text-center Servicio o marca.
             p.text-center 
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema3/img33.svg' alt='AvatarTop')
           .col-12
-            h4 El público objetivo.
+            h4.text-center El público objetivo.
             p.text-center 
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema3/img34.svg' alt='AvatarTop')
           .col-12
-            h4 Se da a conocer el #[i claim]: la frase o palabra relevante dentro del mensaje. 
+            h4.text-center Se da a conocer el #[i claim]: la frase o palabra relevante dentro del mensaje. 
             p.text-center 
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema3/img35.svg' alt='AvatarTop')
           .col-12
-            h4 Transmitir cuál es el contenido innovador y creativo.
+            h4.text-center Transmitir cuál es el contenido innovador y creativo.
             p.text-center 
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema3/img36.svg' alt='AvatarTop')
           .col-12
-            h4 Los canales digitales de difusión.
+            h4.text-center Los canales digitales de difusión.
             p.text-center 
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema3/img37.svg' alt='AvatarTop')
           .col-12
-            h4 El presupuesto de la campaña publicitaria. Los indicadores o métricas digitales. 
+            h4.text-center El presupuesto de la campaña publicitaria. Los indicadores o métricas digitales. 
             p.text-center 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
