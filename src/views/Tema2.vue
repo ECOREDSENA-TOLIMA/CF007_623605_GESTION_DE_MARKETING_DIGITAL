@@ -63,8 +63,8 @@
     .row.justify-content-center.align-items-center.md-5   
       .col-lg-12(data-aos="fade-left")     
         figure
-          .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/oc9tYJOI-Ic" title="¿Qué es una campaña publicitaria?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
     Separador
     .row
       .col-xl-12
@@ -306,37 +306,39 @@
       .col-lg-12
         h4 Tipo de mensajes publicitarios
 
-    .BGIMG01.p-5.mb-5
-      SlyderA(tipo="b")(data-aos="zoom-in-up")
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Mensaje publicitario emotivo
-            p Buscan sensibilizar las emociones del público objetivo. 
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema2/img23.jpg', alt='Imagen decorativa')
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Mensaje publicitario racional
-            p Transmite en el mensaje las características del producto o servicio. 
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema2/img24.jpg', alt='Imagen decorativa')
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Mensaje publicitario corporativo
-            p Son mensajes publicitarios que están orientados a dar a conocer una organización, su imagen y valores corporativos.
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema2/img25.jpg', alt='Imagen decorativa')
-        .row
-          .col-md-6.mb-4.mb-md-0
-            h4 Mensaje publicitario subliminal
-            p Es un mensaje publicitario que no es perceptible por el público objetivo conscientemente, pero si por el inconsciente el cual impulsa a adquirir el producto o servicio.
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema2/img26.jpg', alt='Imagen decorativa')
-
+    .BGIMG01.p-5
+      .row.justify-content-center.align-items-center
+        .col-lg-12
+          SlyderA(tipo="b")(data-aos="zoom-in-up")
+            .row
+              .col-md-6.mb-4.mb-md-0
+                h4 Mensaje publicitario emotivo
+                p Buscan sensibilizar las emociones del público objetivo. 
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/temas/tema2/img23.jpg', alt='Imagen decorativa')
+            .row
+              .col-md-6.mb-4.mb-md-0
+                h4 Mensaje publicitario racional
+                p Transmite en el mensaje las características del producto o servicio. 
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/temas/tema2/img24.jpg', alt='Imagen decorativa')
+            .row
+              .col-md-6.mb-4.mb-md-0
+                h4 Mensaje publicitario corporativo
+                p Son mensajes publicitarios que están orientados a dar a conocer una organización, su imagen y valores corporativos.
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/temas/tema2/img25.jpg', alt='Imagen decorativa')
+            .row
+              .col-md-6.mb-4.mb-md-0
+                h4 Mensaje publicitario subliminal
+                p Es un mensaje publicitario que no es perceptible por el público objetivo conscientemente, pero si por el inconsciente el cual impulsa a adquirir el producto o servicio.
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/temas/tema2/img26.jpg', alt='Imagen decorativa')
+    separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 2.3 Edición digital
 

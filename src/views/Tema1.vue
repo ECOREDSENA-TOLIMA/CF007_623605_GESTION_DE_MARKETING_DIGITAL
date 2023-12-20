@@ -200,7 +200,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/ToeWYFB2EmM" title="Gestión integral de comunidades virtuales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
@@ -356,8 +356,8 @@
     .row.justify-content-center.align-items-center.md-5.mb-5   
       .col-lg-12(data-aos="fade-left")     
         figure
-          .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/1pCDpRCmtxY" title="¿Qué es la analítica web?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
         p Existen algunas métricas que permiten medir los resultados de las campañas publicitarias:
