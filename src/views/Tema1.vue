@@ -199,8 +199,8 @@
     .row.justify-content-center.align-items-center.md-5   
       .col-lg-12(data-aos="fade-left")     
         figure
-          .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/ToeWYFB2EmM" title="Gestión integral de comunidades virtuales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/0Wa4117uvco" title="Tipos de presupuesto publicitarios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
