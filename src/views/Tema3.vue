@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
-        p La campaña publicitaria digital dentro de sus componentes y como resultado final debe realizar la presentación de lo que será la campaña publicitaria y los detalles de su lanzamiento, es indispensable la aprobación por parte de la organización . 
+        p La campaña publicitaria digital dentro de sus componentes y como resultado final debe realizar la presentación de lo que será la campaña publicitaria y los detalles de su lanzamiento, es indispensable la aprobación por parte de la organización. 
         p La presentación de la campaña publicitaria abarca diversos detalles que definen su enfoque y alcance:
     
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="flip-right")
@@ -85,7 +85,7 @@
             p.text-center 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
-        p La presentación de la campaña publicitaria es de gran relevancia debido a que de esta depende la aprobación por el departamento de #[i marketing] y la dirección de la organización, para su posterior lanzamiento; debido a que se corroborar que sigue los lineamientos de los objetivos planteado y el #[i brief].
+        p La presentación de la campaña publicitaria es de gran relevancia debido a que de esta depende la aprobación por el departamento de #[i marketing] y la dirección de la organización, para su posterior lanzamiento; debido a que se corrobora que sigue los lineamientos de los objetivos planteados y el #[i brief].
         p Como también se procede con financiación en la etapa de ejecución del proyecto, esta etapa puede contener contratación con plataformas digitales como Facebook Ads, Google Ads, Instagram Ads, entre otras; que se requieran para el lanzamiento y ejecución de la campaña publicitaria en medios digitales. 
         p Una presentación acorde también puede traer posibles cambios o requerimientos de ediciones del contenido o en su caso desfavorable, el cambio o cancelación de la campaña publicitaria digital.
 
@@ -96,7 +96,7 @@
       h2.my-5 3.1 Herramientas de presentación
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="flip-up")
-        p La presentación de campañas publicitarias digitales requiere el respaldo de herramientas tecnológicas adecuadas para su efectiva comunicación y aprobación. Frente a los directivos, plataformas como SharePoint, Teams, Yammer, Stream y Zoom ofrecen funcionalidades para una presentación clara y efectiva. Asimismo, la utilización de videoconferencias, carteleras digitales, intranet corporativa y correos electrónicos constituyen medios eficaces .
+        p La presentación de campañas publicitarias digitales requiere el respaldo de herramientas tecnológicas adecuadas para su efectiva comunicación y aprobación. Frente a los directivos, plataformas como SharePoint, Teams, Yammer, Stream y Zoom ofrecen funcionalidades para una presentación clara y efectiva. Asimismo, la utilización de videoconferencias, carteleras digitales, intranet corporativa y correos electrónicos constituyen medios eficaces.
         p Cuando la presentación implica la participación del público objetivo para obtener opiniones y aprobación, se opta por el canal digital previsto para la campaña, asegurando la confidencialidad necesaria. Además, se pueden emplear plataformas de encuestas como Survey para recopilar datos y retroalimentación de manera estructurada. Estas herramientas no solo facilitan la exposición del plan de campaña, sino que también permiten la interacción y evaluación eficientes.
 
       .col-lg-4
@@ -109,7 +109,7 @@
       h2.my-5 3.2 Presentación de indicadores de desempeño
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
-        p Los indicadores de desempeño, conocidos como métricas clave (KPI por sus siglas en inglés), son herramientas esenciales para observar, medir y evaluar el progreso de los objetivos de una organización. Estas métricas, alineadas con la implementación de los planes estratégicos, tácticos y operativos, ofrecen la posibilidad de comparar los resultados obtenidos con las metas establecidas .
+        p Los indicadores de desempeño, conocidos como métricas clave (KPI por sus siglas en inglés), son herramientas esenciales para observar, medir y evaluar el progreso de los objetivos de una organización. Estas métricas, alineadas con la implementación de los planes estratégicos, tácticos y operativos, ofrecen la posibilidad de comparar los resultados obtenidos con las metas establecidas.
         p La evaluación de los indicadores de desempeño proporciona a la organización valiosa información que permite:
     
     .tarjeta--container.row.mb-5

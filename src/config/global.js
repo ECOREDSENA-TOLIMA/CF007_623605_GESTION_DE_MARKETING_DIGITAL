@@ -51,7 +51,7 @@ export default {
             hash: 't_1_3',
           },
           {
-            numero: '1.47',
+            numero: '1.4',
             titulo: 'Analítica <em>web</em>',
             hash: 't_1_4',
           },
@@ -90,7 +90,7 @@ export default {
           {
             numero: '3.1',
             titulo: 'Herramientas de presentación',
-            hash: 't_2_3',
+            hash: 't_3_1',
           },
           {
             numero: '3.2',

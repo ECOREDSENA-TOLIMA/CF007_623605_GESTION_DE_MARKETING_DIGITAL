@@ -142,7 +142,7 @@
           .tarjeta.tarjeta--azul
             .p-4
               h4 Poseer objetivos comunes
-              p Todo equipo de trabajo posee un líder o un conjunto de líderes, encargados de la conducción y la toma de decisiones, facilitando la coordinación de los esfuerzos y la resolución de disputas internas.
+              p Todo equipo de trabajo avanza conjuntamente hacia la consecución de un mismo objetivo, cuyas ventajas se compartirán entre los integrantes del grupo o que resultan igualmente benéficas para todos. Todo equipo debe operar como si fuera una única entidad. 
       .col-lg-6(data-aos="flip-up")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
@@ -281,7 +281,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="flip-up")
         p En la planeación estratégica, táctica u operativa existen unos tiempos de ejecución, en cuanto a la planeación estratégica se realiza a largo plazo, la planeación táctica a mediano plazo y la planeación operativa a corto plazo; cada una de estas planeaciones está integrada por unas metas y actividades, la cuales cuentan con una fecha o tiempo determinado de ejecución para cada una; por lo cual se puede decir que existe un cronograma establecido para la planeación de la organización. 
-        p Por su parte, cada proyecto que adelanta la organización debe de ir acompañado de un cronograma para cada una de sus etapas o fases; es decir, para su fase de factibilidad, fase de inversión, fase de operación y fase de evolución.
+        p Por su parte, cada proyecto que adelanta la organización debe ir acompañado de un cronograma para cada una de sus etapas o fases; es decir, para su fase de factibilidad, fase de inversión, fase de operación y fase de evolución.
         p Por lo cual, se puede definir al cronograma como una herramienta que permite a las organizaciones de forma gráfica presentar detalladamente cada una de sus actividades a adelantar y los tiempos en los cuales se debe realizar; es de gran utilidad debido a que permite controlar los tiempos de ejecución de los planes o proyectos.
         p Los cronogramas están integrados por el nombre del proyecto, objetivos del proyecto, actividades, periodos de tiempo y responsables de cada una de las actividades. A continuación, se muestra un ejemplo de cómo es la estructura del cronograma:
       .col-lg-5
